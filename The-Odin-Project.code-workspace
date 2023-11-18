@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../repos/git-test"
+		},
+		{
+			"path": "../../html-boilerplate"
+		},
+		{
+			"path": "../../odin-links-and-images"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
